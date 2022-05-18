@@ -1,0 +1,13 @@
+prefix=/mnt/c/Users/achal.sajeev/Downloads/mle-training-/mle-dev
+exec_prefix=/mnt/c/Users/achal.sajeev/Downloads/mle-training-/mle-dev
+libdir=/mnt/c/Users/achal.sajeev/Downloads/mle-training-/mle-dev/lib
+sharedlibdir=/mnt/c/Users/achal.sajeev/Downloads/mle-training-/mle-dev/lib
+includedir=/mnt/c/Users/achal.sajeev/Downloads/mle-training-/mle-dev/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

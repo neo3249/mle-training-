@@ -1,0 +1,65 @@
+{
+  "build": "h1181459_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "binutils_impl_linux-64 2.38"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/home/achal/miniconda3/pkgs/ld_impl_linux-64-2.38-h1181459_0",
+  "features": "",
+  "files": [
+    "bin/x86_64-conda-linux-gnu-ld",
+    "bin/x86_64-conda_cos7-linux-gnu-ld",
+    "x86_64-conda-linux-gnu/bin/ld",
+    "x86_64-conda_cos7-linux-gnu/bin/ld"
+  ],
+  "fn": "ld_impl_linux-64-2.38-h1181459_0.conda",
+  "legacy_bz2_md5": "be7dbe9ce5a4f9d43e67acfd8fe69a0a",
+  "license": "GPL-3.0-only",
+  "link": {
+    "source": "/home/achal/miniconda3/pkgs/ld_impl_linux-64-2.38-h1181459_0",
+    "type": 1
+  },
+  "md5": "7a8629f37d6fa713d93aab69e36637ad",
+  "name": "ld_impl_linux-64",
+  "package_tarball_full_path": "/home/achal/miniconda3/pkgs/ld_impl_linux-64-2.38-h1181459_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/x86_64-conda-linux-gnu-ld",
+        "path_type": "hardlink",
+        "sha256": "ba8e5dc95cd4a6c3c22acfa5c261421aa5aac5e133ba075dd6e878aef6f97245",
+        "sha256_in_prefix": "ba8e5dc95cd4a6c3c22acfa5c261421aa5aac5e133ba075dd6e878aef6f97245",
+        "size_in_bytes": 2777592
+      },
+      {
+        "_path": "bin/x86_64-conda_cos7-linux-gnu-ld",
+        "path_type": "softlink",
+        "sha256": "ba8e5dc95cd4a6c3c22acfa5c261421aa5aac5e133ba075dd6e878aef6f97245",
+        "size_in_bytes": 2777592
+      },
+      {
+        "_path": "x86_64-conda-linux-gnu/bin/ld",
+        "path_type": "softlink",
+        "sha256": "ba8e5dc95cd4a6c3c22acfa5c261421aa5aac5e133ba075dd6e878aef6f97245",
+        "size_in_bytes": 2777592
+      },
+      {
+        "_path": "x86_64-conda_cos7-linux-gnu/bin/ld",
+        "path_type": "softlink",
+        "sha256": "ba8e5dc95cd4a6c3c22acfa5c261421aa5aac5e133ba075dd6e878aef6f97245",
+        "size_in_bytes": 2777592
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c2f402a076a23e1362dfa8988dd0e7e88bc6d3c4777b6a04e1a160da7afa3862",
+  "size": 669576,
+  "subdir": "linux-64",
+  "timestamp": 1652588230998,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/ld_impl_linux-64-2.38-h1181459_0.conda",
+  "version": "2.38"
+}
