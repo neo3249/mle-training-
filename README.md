@@ -17,5 +17,14 @@ The following techniques have been used:
  - Multiple sampling techinuqies are evaluated. The data set is split into train and test.
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
-## To excute the script
-python code.py
+## To run the script
+- Firstly open the Ubuntu/conda terminal 
+- Now, activate the conda virtual environment namely mle-dev 
+  
+  - conda activate mle-dev
+
+- Install all the related dependencies as per environment.yml file using pip3.
+  - pip3 install {{package_name}}
+
+- Run, python code.py in the same terminal. 
+  - python3 code.py
