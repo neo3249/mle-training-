@@ -21,10 +21,10 @@ The following techniques have been used:
 - Firstly open the Ubuntu/conda terminal 
 - Now, activate the conda virtual environment namely mle-dev 
   
-  - conda activate mle-dev
+  - `conda activate mle-dev`
 
 - Install all the related dependencies as per environment.yml file using pip3.
-  - pip3 install {{package_name}}
+  - `pip3 install {{package_name}}`
 
 - Run, python code.py in the same terminal. 
-  - python3 code.py
+  - `python3 code.py`
