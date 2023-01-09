@@ -1,4 +1,4 @@
-name: /mnt/c/Users/achal.sajeev/Downloads/mle-training-/mle-dev
+name: mle-dev
 channels:
   - defaults
 dependencies:
@@ -41,4 +41,3 @@ dependencies:
     - six==1.16.0
     - sklearn==0.0
     - threadpoolctl==3.1.0
-prefix: /mnt/c/Users/achal.sajeev/Downloads/mle-training-/mle-dev
